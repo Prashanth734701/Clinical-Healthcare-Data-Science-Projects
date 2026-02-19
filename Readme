@@ -1,0 +1,14 @@
+# COVID-19 Clinical Trials EDA
+
+This project analyzes COVID-19 clinical trial data to understand study status, phases, sponsors, and trends.
+
+## Tools Used
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+
+## Key Insights
+- Majority trials were in Phase 2/3
+- Active vs completed distribution analyzed
+- Sponsor-based study classification performed
